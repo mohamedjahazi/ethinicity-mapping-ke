@@ -3,6 +3,6 @@
 [Live link displaying the pivot tables for the ethnicity mapped across Kenya from the Kenya Census Data]
 
 
-https://1drv.ms/i/s!AuFS1fLC7x1ucsgHFcAdXrWPEZ0?e=rBjox6
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://1drv.ms/i/s!AuFS1fLC7x1ucsgHFcAdXrWPEZ0?e=rBjox6)
