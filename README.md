@@ -3,7 +3,7 @@
 [Live link displaying the pivot tables for the ethnicity mapped across Kenya from the Kenya Census Data]
 
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/mohamedjahazi/ethinicity-mapping-ke/blob/main/Ethnicity%20Groups-Kenya%20Extent.png)
+![Map displaying the Ethnic groups mapped across Kenya.](https://github.com/mohamedjahazi/ethinicity-mapping-ke/blob/main/Ethnicity%20Groups-Kenya%20Extent.png)
 
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/mohamedjahazi/ethinicity-mapping-ke/blob/main/Ethnicity%20Groups-Nairobi%20Extent.png)
+![Map displaying the Ethnic groups mapped across Nairobi county in Kenya.](https://github.com/mohamedjahazi/ethinicity-mapping-ke/blob/main/Ethnicity%20Groups-Nairobi%20Extent.png)
