@@ -5,4 +5,4 @@
 
 
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([https://1drv.ms/i/s!AuFS1fLC7x1ucsgHFcAdXrWPEZ0?e=rBjox6](https://onedrive.live.com/?cid=6E1DEFC2F2D552E1&id=6E1DEFC2F2D552E1%21114&parId=6E1DEFC2F2D552E1%21102&o=OneUp)https://onedrive.live.com/?cid=6E1DEFC2F2D552E1&id=6E1DEFC2F2D552E1%21114&parId=6E1DEFC2F2D552E1%21102&o=OneUp)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.] (https://onedrive.live.com/?cid=6E1DEFC2F2D552E1&id=6E1DEFC2F2D552E1%21114&parId=6E1DEFC2F2D552E1%21102&o=OneUp)
