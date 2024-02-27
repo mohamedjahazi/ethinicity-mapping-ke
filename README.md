@@ -5,4 +5,4 @@
 
 
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.] ([https://onedrive.live.com/?cid=6E1DEFC2F2D552E1&id=6E1DEFC2F2D552E1%21114&parId=6E1DEFC2F2D552E1%21102&o=OneUp](https://github.com/mohamedjahazi/ethinicity-mapping-ke/blob/main/Ethnicity%20Groups-Kenya%20Extent.png?raw=true)https://github.com/mohamedjahazi/ethinicity-mapping-ke/blob/main/Ethnicity%20Groups-Kenya%20Extent.png?raw=true)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.] (https://github.com/mohamedjahazi/ethinicity-mapping-ke/blob/main/Ethnicity%20Groups-Kenya%20Extent.png?raw=true)https://github.com/mohamedjahazi/ethinicity-mapping-ke/blob/main/Ethnicity%20Groups-Kenya%20Extent.png?raw=true)
